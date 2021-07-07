@@ -1,0 +1,26 @@
+header {
+  display: flex;
+  align-items: center;
+  height: 100px;
+  border-bottom: 1px solid #a6a5a9;
+  font-weight: 900;
+}
+.navbar-conteiner {
+  display: flex;
+  justify-content: space-between;
+}
+.header-title {
+  color: #0d5adc;
+}
+
+nav ul {
+  display: flex;
+  list-style-type: none;
+}
+
+nav ul li a,
+nav ul li a:visited {
+  text-decoration: none;
+  padding: 24px;
+  color: #3b4157;
+}

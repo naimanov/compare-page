@@ -1,0 +1,7 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,400;0,500;0,900;1,900&display=swap');
+@import url('./base.css');
+@import url('./navbar.css');
+@import url('./compare.css');
+@import url('./compareTable.css');
+@import url('./modal.css');
+@import url('./scroll.css');
